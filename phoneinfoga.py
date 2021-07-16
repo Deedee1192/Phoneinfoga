@@ -145,11 +145,11 @@ uagent.append("Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.3) Gecko
 uagent.append("Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1) Gecko/20090718 Firefox/3.5.1")
 uagent.append("Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0")
 
-number = '' # Full number format
-localNumber = '' # Local number format
-internationalNumber = '' # International numberformat
-numberCountryCode = '' # Dial code; e.g:"+33"
-numberCountry = '' # Country; e.g:France
+number = '' # 09187672264
+localNumber = '' # 09187672264
+internationalNumber = '' # 09187672264
+numberCountryCode = '' # Dial code; e.g:"+63"
+numberCountry = '' # Country; Philippines
 
 googleAbuseToken = ''
 customFormatting = ''
